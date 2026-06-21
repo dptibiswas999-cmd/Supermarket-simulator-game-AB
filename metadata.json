@@ -1,0 +1,6 @@
+{
+  "name": "Supermarket Simulator",
+  "description": "An addictive supermarket simulation game with offline progression, decorative upgrades, real-time customers, and premium VIP rewards",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
